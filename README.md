@@ -1,19 +1,8 @@
-# jupyterlab-stata-highlight
+# jlab-gap-syntax-hl
 
-Jupyterlab extension to highlight Stata syntax
+Jupyterlab extension to highlight gap syntax
 
 
-## Prerequisites
-
-* JupyterLab
-
-## Installation
-
-To install using pip:
-
-```bash
-jupyter labextension install jupyterlab-stata-highlight
-```
 
 ## Development
 

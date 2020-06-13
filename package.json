@@ -1,8 +1,8 @@
 {
-  "name": "jupyterlab-stata-highlight",
+  "name": "jlab-gap-syntax-hl",
   "version": "0.1.1",
-  "description": "Jupyterlab extension to highlight Stata syntax",
-  "author": "Kyle Barron",
+  "description": "Jupyterlab extension to highlight GAP syntax",
+  "author": "xrzvs",
   "main": "lib/plugin.js",
   "keywords": [
     "jupyter",
@@ -11,7 +11,7 @@
   ],
   "license": "MIT",
   "repository": {
-    "url": "git@github.com:kylebarron/jupyterlab-stata-highlight.git",
+    "url": "git@github.com:Xerz/jlab-gap-syntax-hl.git",
     "type": "git"
   },
   "jupyterlab": {
